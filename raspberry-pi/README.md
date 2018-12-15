@@ -9,3 +9,5 @@ This example uses the Adafruit_DHT library and it will need to be installed from
 That should do it, if you run in to problems installing this module, or would rather install it from source, see the Adafruit Repository:
 
 https://github.com/adafruit/Adafruit_Python_DHT
+
+Thanks Adafruit!
