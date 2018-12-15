@@ -6,6 +6,7 @@ This example uses the Adafruit DHT library and must be installed prior to use.
 ### Installation
 - In the Arduino IDE, click 'Sketch' -> 'Include Libraries' -> 'Manage Libraries'
 - In the search box, type 'DHT'
+- Locate the module called, "DHT Sensor Library by Adafruit"
 
 As of this writing, the version 1.2.3 is the correct version to use.
 
