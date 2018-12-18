@@ -1,6 +1,13 @@
 # DHT11 & DHT22 Temperature & Humidity Sensor
 ## On Raspberry Pi w/ Python
 
+## Pinout
+![PINOUT](https://github.com/makersdigest/T03-DHTXX-Temp-Humidity/blob/master/img/DHT-Pinout.png)
+
+## Diagram
+![DIAGRAM](https://github.com/makersdigest/T03-DHTXX-Temp-Humidity/blob/master/img/raspi-Wiring.png)
+
+
 This example uses the Adafruit_DHT library and it will need to be installed from source. 
 
 ### Installation of module
