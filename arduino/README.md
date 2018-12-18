@@ -1,6 +1,13 @@
 # DHT11 & DHT22 Temperature & Humidity Sensor
 ## On Arduino
 
+## Pinout
+![PINOUT](https://github.com/makersdigest/T03-DHTXX-Temp-Humidity/blob/master/img/DHT-Pinout.png)
+
+## Diagram
+![DIAGRAM](https://github.com/makersdigest/T03-DHTXX-Temp-Humidity/blob/master/img/Arduino-Wiring.png)
+
+
 This example uses the Adafruit DHT library and must be installed prior to use.
 
 ### Installation
